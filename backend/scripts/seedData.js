@@ -11,7 +11,7 @@ const sampleProducts = [
     description: "Ergonomic office chair with lumbar support and adjustable height. Perfect for long working hours with premium comfort.",
     price: 299.99,
     category: "Furniture",
-    images: ["https://media.sketchfab.com/models/675f34f7304e4d92812a41e9750539aa/thumbnails/85ce30a9273c425ab2972e79c1558039/313b06d66ee24b5294c737bb017222eb.jpeg"],
+    images: ["https://urbancart.in/cdn/shop/products/4_8ddfd1f8-3ed2-475a-8568-0cc14341d3d4.jpg?v=1651751655&width=3648"],
     model3d: "/models/office_chair_modern.glb",
     animations: {
       available: ["idle", "rotate", "height_adjust"],
